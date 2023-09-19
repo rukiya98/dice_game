@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\Dice Game_14635\Dice_Game\Dice_Game\bin\Debug\net6.0\Dice_Game.exe
+C:\Users\DELL\OneDrive\Desktop\Dice Game_14635\Dice_Game\Dice_Game\bin\Debug\net6.0\Dice_Game.deps.json
+C:\Users\DELL\OneDrive\Desktop\Dice Game_14635\Dice_Game\Dice_Game\bin\Debug\net6.0\Dice_Game.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Dice Game_14635\Dice_Game\Dice_Game\bin\Debug\net6.0\Dice_Game.dll
+C:\Users\DELL\OneDrive\Desktop\Dice Game_14635\Dice_Game\Dice_Game\bin\Debug\net6.0\Dice_Game.pdb
+C:\Users\DELL\OneDrive\Desktop\Dice Game_14635\Dice_Game\Dice_Game\obj\Debug\net6.0\Dice_Game.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Dice Game_14635\Dice_Game\Dice_Game\obj\Debug\net6.0\Dice_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Dice Game_14635\Dice_Game\Dice_Game\obj\Debug\net6.0\Dice_Game.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Dice Game_14635\Dice_Game\Dice_Game\obj\Debug\net6.0\Dice_Game.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Dice Game_14635\Dice_Game\Dice_Game\obj\Debug\net6.0\Dice_Game.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Dice Game_14635\Dice_Game\Dice_Game\obj\Debug\net6.0\Dice_Game.dll
+C:\Users\DELL\OneDrive\Desktop\Dice Game_14635\Dice_Game\Dice_Game\obj\Debug\net6.0\refint\Dice_Game.dll
+C:\Users\DELL\OneDrive\Desktop\Dice Game_14635\Dice_Game\Dice_Game\obj\Debug\net6.0\Dice_Game.pdb
+C:\Users\DELL\OneDrive\Desktop\Dice Game_14635\Dice_Game\Dice_Game\obj\Debug\net6.0\Dice_Game.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\Dice Game_14635\Dice_Game\Dice_Game\obj\Debug\net6.0\ref\Dice_Game.dll
